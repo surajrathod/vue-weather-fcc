@@ -55,7 +55,7 @@ export default {
   data(){
     return{
     searchtext:'Akola',
-    Apikey:'8a3f972c527e83479ac1e553f495f1f0',
+    Apikey:' ', //your api key
     scale:'F',
     weatherobj:{
     temp_K:'',
